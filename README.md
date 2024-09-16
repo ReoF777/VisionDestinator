@@ -2,7 +2,7 @@
 
 VisionDestinatorは、画像と質問を元にAIが答えを生成するWinformアプリケーションです。本アプリケーションは、.NET 8上で動作し、OpenAIのAPIを利用して画像と質問からインテリジェントな応答を提供します。
 
-![アプリのスクリーンショット](Images/necoTest.png)
+![アプリのスクリーンショット](Images/neco.png)
 
 
 ## 機能概要
